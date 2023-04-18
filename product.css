@@ -1,0 +1,19 @@
+img{
+ width: 1000px;
+ height: 1000px;
+}
+pre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+body{
+    background-color:red;
+}
+pre{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-style: wavy;
+}
+body{
+    background-color: red;
+}

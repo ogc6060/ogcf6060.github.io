@@ -1,0 +1,15 @@
+header{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+
+}
+body{
+    background-color: red;
+
+}
+      footer{
+        text-align:center;
+        background-color: black;
+        color: red;
+      }
